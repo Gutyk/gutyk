@@ -1,5 +1,5 @@
 ### Olá!
 
 
-📚-> Estou estudando Python, HTML e CSS
+📚-> Estou estudando Python, Java, HTML e CSS
 🖥️-> Discord: Guty#0001
