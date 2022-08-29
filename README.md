@@ -1,6 +1,6 @@
-### Olá!
+### Olá, seja bem vindo ao meu perfil!
 
 
-📚-> Estou estudando Python, Java, HTML e CSS
+📚->Atualmente estou estudando Java, Javascript, HTML, CSS e Bootstrap
 
-🖥️-> Discord: Guty#0001
+💻->Discord: Guty#0001
