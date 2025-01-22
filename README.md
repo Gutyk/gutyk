@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/enabled/564x/e5/20/d5/e520d5fdf66615af98e523582d226bef.jpg"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/NodeJs/Hifumi_Takimoto_NodeJs.png"  />
 
 ###
 
@@ -45,6 +45,6 @@
 
 ###
 
-<h4 align="left">I'm currently learning Python and Unity for my game projects 🎮</h4>
+<h4 align="left">I'm currently learning Node.js!</h4>
 
 ###
