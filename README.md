@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/NodeJs/Hifumi_Takimoto_NodeJs.png"  />
+<img align="right" height="150" src="[https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/NodeJs/Hifumi_Takimoto_NodeJs.png](https://in.pinterest.com/pin/623678248444130899/)"  />
 
 ###
 
@@ -39,6 +39,6 @@
 
 ###
 
-<h4 align="left">I'm currently learning Node.js!</h4>
+<h4 align="left">I'm currently learning Python and Cybersecurity!</h4>
 
 ###
