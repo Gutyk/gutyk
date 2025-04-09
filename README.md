@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/NodeJs/Hifumi_Takimoto_NodeJs.png](https://in.pinterest.com/pin/623678248444130899/)"  />
+<img align="right" height="150" src="https://i.pinimg.com/736x/23/32/43/233243424e11de873e5c05c9106e081f.jpg"  />
 
 ###
 
