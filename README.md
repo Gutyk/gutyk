@@ -39,6 +39,6 @@
 
 ###
 
-<h4 align="left">I'm currently learning Python and Cybersecurity!</h4>
+<h4 align="left">I'm currently learning Go!</h4>
 
 ###
