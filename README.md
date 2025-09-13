@@ -39,6 +39,6 @@
 
 ###
 
-<h4 align="left">I'm currently learning Go!</h4>
+<h4 align="left">I'm currently learning C#!</h4>
 
 ###
