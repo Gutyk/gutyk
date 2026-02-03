@@ -1,5 +1,5 @@
 <h1 align="center">Luis Gustavo Marques Martins</h1>
-<p align="center">Software Developer • .NET • C# • React • Azure</p>
+<p align="center"><strong>Software Developer • .NET • C# • React • Azure</strong></p>
 
 ###
 
