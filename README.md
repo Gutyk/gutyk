@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img align="right" height="190" src="https://cdn.discordapp.com/attachments/563425878433071109/1468306919801229548/ChatGPT_Image_3_de_fev._de_2026_14_59_27.png?ex=69838ae1&is=69823961&hm=c9080ea2f9610cbf34d00fafc52ee99e022bfd79c8460a4a7a38a9d9ec929aac"  />
+<img align="right" height="250" src="https://cdn.discordapp.com/attachments/563425878433071109/1468306919801229548/ChatGPT_Image_3_de_fev._de_2026_14_59_27.png?ex=69838ae1&is=69823961&hm=c9080ea2f9610cbf34d00fafc52ee99e022bfd79c8460a4a7a38a9d9ec929aac"  />
 
 ###
 
