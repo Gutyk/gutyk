@@ -1,24 +1,23 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Luis Gustavo Marques Martins</h1>
+<p align="center">Software Developer • .NET • C# • React • Azure</p>
 
 ###
 
-<h3 align="left">• About Me</h3>
+<h3 align="center">• About Me</h3>
+
+<p align="center">
+Exploring game development, Discord bots, IoT, and side projects<br>
+Anime and gaming enthusiast, lifelong learner<br>
+</p>
+<h4 align="center">Always learning, always building.</h4>
+
+
+
+<img align="right" height="220" src="https://cdn.discordapp.com/attachments/563425878433071109/1468306919801229548/ChatGPT_Image_3_de_fev._de_2026_14_59_27.png?ex=69838ae1&is=69823961&hm=c9080ea2f9610cbf34d00fafc52ee99e022bfd79c8460a4a7a38a9d9ec929aac"  />
 
 ###
 
-<br clear="both">
-
-<p align="left">Software Developer | .NET • C# • React • Azure  <br>Bachelor in Information Systems  <br>Exploring game development, Discord bots, IoT, and side projects  <br>Anime and gaming enthusiast, lifelong learner  <br>Always learning, always building.</p>
-
-###
-
-<br clear="both">
-
-<img align="right" height="250" src="https://cdn.discordapp.com/attachments/563425878433071109/1468306919801229548/ChatGPT_Image_3_de_fev._de_2026_14_59_27.png?ex=69838ae1&is=69823961&hm=c9080ea2f9610cbf34d00fafc52ee99e022bfd79c8460a4a7a38a9d9ec929aac"  />
-
-###
-
-<h3 align="left">• Language and tools</h3>
+<h3 align="center">• Language and tools</h3>
 
 ###
 
